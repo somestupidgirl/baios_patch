@@ -4,11 +4,10 @@ This is a binary patch to fix Cubase 11's baios.bundle causing the app to crash 
 
 ## How-to:
 
-This requires a fresh install of Cubase 11, Homebrew and bsdiff/bspatch.
+This requires a clean install of Cubase 11.
 
-* Install [Homebrew](https://brew.sh/)
-* Install the bsdiff package: *$ brew install bsdiff*
-* Apply the binary patch using the script provided here
+* Clone this repo
+* Execute the 'Run.command' script and the rest should take care of itself
 
 ## In-depth description of the issue itself
 
